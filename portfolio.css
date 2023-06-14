@@ -1,0 +1,73 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Apply some basic styles */
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color:lightgoldenrodyellow;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    text-align:right;
+    margin:0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .container1 {
+    max-width: 800px;
+    color:brown;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  .x {
+    max-width: 800px;
+    color:violet;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  .container2 {
+    max-width: 800px;
+    color:goldenrod;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  
+  .container3 {
+    max-width: 800px;
+    color:yellowgreen;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  .project {
+    max-width: 800px;
+    color:palevioletred;
+    padding:40px;
+
+  }
+  
+  .container4 {
+    max-width: 800px;
+    color:plum;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  
